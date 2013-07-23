@@ -60,9 +60,9 @@ Installation
 
 2. Install gevent 1.0rc2 (non-Windows)::
 
-    $ ./sockjs/bin/pip install https://github.com/downloads/SiteSupport/gevent/gevent-1.0rc2.tar.gz
+    $ ./sockjs/bin/pip install https://github.com/surfly/gevent/archive/1.0rc2.tar.gz
 
-2. Install gevent 1.0rc1 (Windows, 32bit Python 2.7)::
+2. Install gevent 1.0rc2 (Windows, 32bit Python 2.7)::
 
     $ ./sockjs/Scripts/easy_install https://github.com/downloads/SiteSupport/gevent/gevent-1.0rc2.win32-py2.7.exe
 
