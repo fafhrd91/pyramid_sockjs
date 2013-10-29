@@ -22,6 +22,7 @@ if __name__ == '__main__':
 
     config = Configurator()
     config.include('pyramid_sockjs')
+    config.include('pyramid_chameleon')
 
     config.add_sockjs_route(prefix='/__sockjs__', session=ChatSession)
 
